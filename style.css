@@ -26,7 +26,7 @@ to this section's matching END comment to see page-specific styles.
   --font-family-header: "HK Grotesk";
 }
 .stn-widget-trigger-111213 {
-  display: none;
+  display: none !important;
 }
 /* Basic page style resets */
 * {
